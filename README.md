@@ -1,4 +1,4 @@
-# Heladeria Ecommerce React
+# Ecommerce React
 
 Heladeria Ecommerce  construida en React, Laravel, tailwind y inertiajs
 [Restaurant-react](https://ice-cream-shop-laravel-inertia.herokuapp.com).
